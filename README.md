@@ -1,4 +1,4 @@
-# hello-world Demo
+# Hello-World-Demo
 
 Hi humans on Earth!
 
